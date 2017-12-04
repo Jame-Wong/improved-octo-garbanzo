@@ -16,6 +16,9 @@ public class Class_01 {
 		
 		package_02.Class_01 c4 = new package_02.Class_01();
 		c4.method_01();   
+		
+		package_02.Class_02 c5 = new package_02.Class_02();
+		c5.method_01();   
 	}
 
 }
