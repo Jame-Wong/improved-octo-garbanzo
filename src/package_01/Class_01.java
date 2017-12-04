@@ -8,6 +8,9 @@ public class Class_01 {
 		
 		Class_02 c2 = new Class_02();
 		c2.method_01(); 
+		
+		Class_03 c3 = new Class_03();
+		c3.method_01();  
 	}
 
 }
