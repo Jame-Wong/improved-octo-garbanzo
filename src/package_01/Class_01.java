@@ -1,5 +1,7 @@
 package package_01;
 
+import package_02.*;
+
 public class Class_01 {
 
 	public static void main(String[] args) {
@@ -11,6 +13,9 @@ public class Class_01 {
 		
 		Class_03 c3 = new Class_03();
 		c3.method_01();  
+		
+		package_02.Class_01 c4 = new package_02.Class_01();
+		c4.method_01();   
 	}
 
 }
