@@ -11,6 +11,12 @@ public class Class_01 {
 		
 		Class_03 c3 = new Class_03();
 		c3.method_01();  
-	}
+		
+		Class_newBranch_01 c4 = new Class_newBranch_01();
+		c4.method_01(); 
+		
+		Class_master_01 c5 = new Class_master_01();
+		c5.method_01();  
+	} 
 
 }
